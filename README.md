@@ -1,2 +1,2 @@
 # SpendWise
-12-document,1-video,other file are program file
+A simple Node.js, Express, and MongoDB backend project for students to learn JWT authentication and basic CRUD operations.
